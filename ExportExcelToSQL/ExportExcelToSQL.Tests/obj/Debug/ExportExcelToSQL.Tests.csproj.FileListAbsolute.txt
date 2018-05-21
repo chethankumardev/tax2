@@ -1,0 +1,17 @@
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\ExportExcelToSQL.Tests.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\ExportExcelToSQL.Tests.pdb
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\ExportExcelToSQL.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\ExportExcelToSQL.pdb
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\ExportExcelToSQL.dll.config
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\obj\Debug\ExportExcelToSQL.Tests.csprojResolveAssemblyReference.cache
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\obj\Debug\ExportExcelToSQL.Tests.csproj.CoreCompileInputs.cache
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\obj\Debug\ExportExcelToSQL.Tests.csproj.CopyComplete
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\obj\Debug\ExportExcelToSQL.Tests.dll
+c:\users\inchk5\documents\visual studio 2017\Projects\ExportExcelToSQL\ExportExcelToSQL.Tests\obj\Debug\ExportExcelToSQL.Tests.pdb
