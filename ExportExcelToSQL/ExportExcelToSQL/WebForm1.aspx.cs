@@ -66,7 +66,7 @@ namespace ExportExcelToSQL
 
                             // FINALLY, LOAD DATA INTO THE DATABASE TABLE.
                             oSqlBulk = new SqlBulkCopy(con);
-                            oSqlBulk.DestinationTableName = "EmployeeDetails"; // TABLE NAME.
+                            oSqlBulk.DestinationTableName = "Table"; // TABLE NAME.
                             oSqlBulk.WriteToServer(objBulkReader);
                         }
 
